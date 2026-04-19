@@ -1,4 +1,9 @@
-# PM Feedback Analyzer
+# SignalForge Insights
+
+**Part of SignalForge**  
+
+SignalForge Insights is a product concept for turning raw user feedback into structured product insight — as the first step in the SignalForge workflow from feedback to PRD to execution.
+
 **Live demo:** [View the landing page](https://yasinjir.github.io/pm-feedback-analyzer-site/)
 
 A practical product concept for helping product managers turn raw user feedback into structured, actionable insight.
