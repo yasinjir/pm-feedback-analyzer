@@ -43,3 +43,7 @@ Prototype screenshot will be added in the `assets` folder.
 
 ## Why this project exists
 This project is part of a portfolio of practical product ideas and tools for modern product teams.
+
+## Preview
+
+![SignalForge Insights Preview](assets/signalforge-insights-preview.png)
