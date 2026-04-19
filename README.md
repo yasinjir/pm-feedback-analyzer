@@ -1,25 +1,39 @@
 # PM Feedback Analyzer
 
-A simple concept for helping product managers turn raw user feedback into actionable insights.
+A practical product concept for helping product managers turn raw user feedback into structured, actionable insight.
 
-## What problem does it solve?
-PMs often collect feedback from many places, but struggle to turn it into structured, useful insight.
+## Problem
+Product teams collect feedback from surveys, interviews, support tickets, and reviews, but turning that input into clear priorities is slow and messy.
 
-## Who is it for?
+## What it does
+- Groups similar feedback into themes
+- Extracts key pain points
+- Highlights repeated feature requests
+- Suggests simple priority signals
+
+## Target users
 - Product Managers
-- Founders
 - Product Analysts
-- Growth Teams
+- Founders
+- Growth teams
 
 ## MVP scope
-- Raw feedback input
-- Theme clustering
-- Pain point extraction
-- Repeated request detection
-- Basic priority suggestion
+- Landing page
+- Raw feedback input mockup
+- Structured insight output mockup
+- Clear product value proposition
 
 ## Current status
-Idea and product definition stage
+Prototype stage
 
-## Next step
-Turn this concept into a no-code prototype
+## Files in this repository
+- `product-brief.md`
+- `user-flow.md`
+- `mvp-scope.md`
+- `landing-copy.md`
+
+## Prototype preview
+Prototype screenshot will be added in the `assets` folder.
+
+## Why this project exists
+This project is part of a portfolio of practical product ideas and tools for modern product teams.
