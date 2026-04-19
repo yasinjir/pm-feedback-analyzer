@@ -1,5 +1,3 @@
-<img width="1919" height="1064" alt="image" src="https://github.com/user-attachments/assets/70582a6f-23a7-40b7-82ef-bfb09dc129a6" /># Product Brief: PM Feedback Analyzer
-
 ## Problem ❓
 Product managers often receive a large amount of raw user feedback from surveys, support tickets, interviews, and app reviews.
 Turning this raw input into clear themes, pain points, and actionable priorities is slow and messy.
