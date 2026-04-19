@@ -1,4 +1,5 @@
 # PM Feedback Analyzer
+**Live demo:** [View the landing page](https://yasinjir.github.io/pm-feedback-analyzer-site/)
 
 A practical product concept for helping product managers turn raw user feedback into structured, actionable insight.
 
